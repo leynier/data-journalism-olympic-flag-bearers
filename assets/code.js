@@ -1,3 +1,7 @@
+$.getJSON('assets/olympic_games.json', (json) => {
+    console.log(json);
+});
+
 var chart = c3.generate({
     data: {
         columns: [
