@@ -1,0 +1,254 @@
+{
+    "1896": {
+        "city": "Atenas",
+        "country": "Grecia",
+        "sports": 9,
+        "disciplines": 11,
+        "mens": 241,
+        "womens": 0,
+        "events": 43
+    },
+    "1900": {
+        "city": "París",
+        "country": "Francia",
+        "sports": 19,
+        "disciplines": 20,
+        "mens": 975,
+        "womens": 22,
+        "events": 95
+    },
+    "1904": {
+        "city": "San Louis",
+        "country": "Estados Unidos",
+        "sports": 16,
+        "disciplines": 17,
+        "mens": 645,
+        "womens": 6,
+        "events": 95
+    },
+    "1908": {
+        "city": "Londres",
+        "country": "Reino Unido",
+        "sports": 22,
+        "disciplines": 24,
+        "events": 110,
+        "mens": 1971,
+        "womens": 37
+    },
+    "1912": {
+        "city": "Estocolmo",
+        "country": "Suecia",
+        "sports": 14,
+        "disciplines": 18,
+        "mens": 2359,
+        "womens": 47,
+        "events": 102
+    },
+    "1920": {
+        "city": "Amberes",
+        "country": "Bélgica",
+        "sports": 22,
+        "disciplines": 29,
+        "mens": 2561,
+        "womens": 65,
+        "events": 156
+    },
+    "1924": {
+        "city": "París",
+        "country": "Francia",
+        "sports": 17,
+        "disciplines": 23,
+        "mens": 2954,
+        "womens": 135,
+        "events": 126
+    },
+    "1928": {
+        "city": "Amsterdam",
+        "country": "Países Bajos",
+        "sports": 14,
+        "disciplines": 20,
+        "mens": 2606,
+        "womens": 277,
+        "events": 109
+    },
+    "1932": {
+        "city": "Los Ángeles",
+        "country": "Estados Unidos",
+        "sports": 14,
+        "disciplines": 20,
+        "mens": 1206,
+        "womens": 126,
+        "events": 117
+    },
+    "1936": {
+        "city": "Berlín",
+        "country": "Alemania",
+        "sports": 19,
+        "disciplines": 25,
+        "mens": 3632,
+        "womens": 331,
+        "events": 129
+    },
+    "1948": {
+        "city": "Londres",
+        "country": "Reino Unido",
+        "sports": 17,
+        "disciplines": 23,
+        "mens": 3714,
+        "womens": 390,
+        "events": 136
+    },
+    "1952": {
+        "city": "Helsinki",
+        "country": "Finlandia",
+        "sports": 17,
+        "disciplines": 23,
+        "mens": 4436,
+        "womens": 519,
+        "events": 149
+    },
+    "1956": {
+        "city": "Melbourne",
+        "country": "Australia",
+        "sports": 17,
+        "disciplines": 23,
+        "mens": 2938,
+        "womens": 376,
+        "events": 151
+    },
+    "1960": {
+        "city": "Roma",
+        "country": "Italia",
+        "sports": 17,
+        "disciplines": 23,
+        "mens": 4727,
+        "womens": 611,
+        "events": 150
+    },
+    "1964": {
+        "city": "Tokyo",
+        "country": "Japón",
+        "sports": 19,
+        "disciplines": 25,
+        "mens": 4473,
+        "womens": 678,
+        "events": 163
+    },
+    "1968": {
+        "city": "Mexico",
+        "country": "Mexico",
+        "sports": 18,
+        "disciplines": 24,
+        "mens": 4735,
+        "womens": 781,
+        "events": 172
+    },
+    "1972": {
+        "city": "Munich",
+        "country": "Alemania",
+        "sports": 21,
+        "disciplines": 28,
+        "mens": 6075,
+        "womens": 1059,
+        "events": 195
+    },
+    "1976": {
+        "city": "Montreal",
+        "country": "Canadá",
+        "sports": 21,
+        "disciplines": 27,
+        "mens": 4824,
+        "womens": 1260,
+        "events": 198
+    },
+    "1980": {
+        "city": "Moscú",
+        "country": "Rusia",
+        "sports": 21,
+        "disciplines": 27,
+        "mens": 4064,
+        "womens": 1115,
+        "events": 203
+    },
+    "1984": {
+        "city": "Los Ángeles",
+        "country": "Estados Unidos",
+        "sports": 21,
+        "disciplines": 29,
+        "mens": 5263,
+        "womens": 1566,
+        "events": 221
+    },
+    "1988": {
+        "city": "Seúl",
+        "country": "Corea del Sur",
+        "sports": 23,
+        "disciplines": 31,
+        "mens": 6197,
+        "womens": 2194,
+        "events": 237
+    },
+    "1992": {
+        "city": "Barcelona",
+        "country": "España",
+        "sports": 25,
+        "disciplines": 34,
+        "mens": 6652,
+        "womens": 2704,
+        "events": 257
+    },
+    "1996": {
+        "city": "Atlanta",
+        "country": "Estados Unidos",
+        "sports": 26,
+        "disciplines": 37,
+        "mens": 6797,
+        "womens": 3523,
+        "events": 271
+    },
+    "2000": {
+        "city": "Sydney",
+        "country": "Australia",
+        "sports": 28,
+        "disciplines": 40,
+        "mens": 6582,
+        "womens": 4069,
+        "events": 300
+    },
+    "2004": {
+        "city": "Atenas",
+        "country": "Grecia",
+        "sports": 28,
+        "disciplines": 40,
+        "mens": 6296,
+        "womens": 4329,
+        "events": 301
+    },
+    "2008": {
+        "city": "Beijing",
+        "country": "China",
+        "sports": 28,
+        "disciplines": 41,
+        "mens": 6305,
+        "womens": 4637,
+        "events": 302
+    },
+    "2012": {
+        "city": "Londres",
+        "country": "Reino Unido",
+        "sports": 26,
+        "disciplines": 39,
+        "mens": 5992,
+        "womens": 4776,
+        "events": 302
+    },
+    "2016": {
+        "city": "Rio de Janeiro",
+        "country": "Brasil",
+        "sports": 28,
+        "disciplines": 41,
+        "mens": 6181,
+        "womens": 5057,
+        "events": 306
+    }
+}
